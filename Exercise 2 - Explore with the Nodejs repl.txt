@@ -1,0 +1,13 @@
+Exercise 2: Explore with the Node.js REPL
+
+Use the Node.js REPL to list the methods provided by the Node.js core crypto module. Use one of these methods to generate a random ID.// Utilizza il modulo uuid per generare un UUID casuale
+
+
+
+PASSAGGI EFFETTUATI SU TERMINAL :
+
+- node     (enter)
+- crypto.   (doppio tab)
+- crypto.randomUUID()   (enter)
+
+Restituzione di questo risultato --> '9f80a330-629e-4807-9460-a157b8702a5e'
