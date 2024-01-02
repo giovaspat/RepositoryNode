@@ -97,7 +97,7 @@ Col metodo PUT ho modificato su Postman il nome del pianeta 2,
     "name" : "Mars Attacks!"
 }
 
-e facendo l'upload risulta aggiurnato
+e facendo l'upload risulta aggiornato
 */
 
 app.delete("/api/planets/:id", (req, res) => {
